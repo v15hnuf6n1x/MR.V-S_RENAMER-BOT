@@ -3,39 +3,39 @@
     "description": "Telegram File Renamer Bot ",
     "logo": "https://graph.org/file/91ab4b346dddd0652958c.jpg",
     "keywords": ["Renamer Bot", "Mongo DB"],    
-    "repository": "https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT",
+    "repository": "https://github.com/v15hnuf6n1x/MR.V-S_RENAMER-BOT",
     "env": {
         "API_ID": {
-            "description": "Your APP ID From my.telegram.org ",
+            "description": "21165589",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash From my.telegram.org ",
+            "description": "8cc762f4873e84a7cf0cbfd66a07244b",
             "value": ""
         },
         "FORCE_SUB": {
-            "description": "Your force sub channel user name without [@] ",
+            "description": "a1pher",
             "value": "",
             "required": false 
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "6124452949:AAEga4V0osEmvGQC3VyH26cGYfSmeUoIKpY",
             "value": ""
         },
         "ADMIN": {
-            "description":"Add Your User ID multiple is use space to split"
+            "description":"21165589"
         },
         "DB_URL": {
-            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "description": "mongodb+srv://Renamer:<renamer012>@cluster0.07ifrct.mongodb.net/?retryWrites=true&w=majority",
             "value": ""
         },
         "DB_NAME":{ 
-            "description":"Your Mongo DB Database Name ",
-            "value": "pyro-botz",
+            "description":"cluster0",
+            "value": "Mr.v",
             "required": false
         },
         "START_PIC": {
-            "description": "Your Bot start cmd Pic from @MT_TelegraPH_Bot",
+            "description": "https://graph.org/file/6944fd866c4fea882a83a.jpg",
             "value": "",
             "required": false
         }
