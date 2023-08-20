@@ -29,12 +29,12 @@ class Bot(Client):
             except Exception as e:
                 print(e)
                 print("Make Sure Bot admin in force sub channel")             
-                self.force_channel = None
+                self.force_channel = FORCE_SUB
         app = web.AppRunner(await web_server())
         await app.setup()
         bind_address = "0.0.0.0"       
         await web.TCPSite(app, bind_address, PORT).start()     
-        print(f"{me.first_name} 𝚂𝚃𝙰𝚁𝚃𝙴𝙳 ⚡️⚡️⚡️")
+        print(f"{me.first_name} IS 𝚂𝚃𝙰𝚁𝚃𝙴𝙳 ⚡️⚡️⚡️")
       
 
     async def stop(self, *args):
