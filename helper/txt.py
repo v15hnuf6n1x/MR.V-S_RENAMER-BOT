@@ -33,7 +33,7 @@ class mr(object):
 
     ABOUT_TXT = """
 ╭───────────⍟
-├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {REMASTER BOT}
+├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {me.first_name}
 ├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/v15hnuf6n1x>MR.VI</a> 
 ├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/lntechnical2>𝙻𝙽 𝚃𝙴𝙲𝙷.𝚐𝚒𝚝</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
@@ -57,6 +57,7 @@ class mr(object):
 Example:- /set_caption 📕 File Name: {filename}
 💾 Size: {filesize}
 ⏰ Duration: {duration}
+   Powered BY <your channel name>
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
