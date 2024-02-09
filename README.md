@@ -5,7 +5,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=v15hnuf6n1x&repo=mr_&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=v15hnuf6n1x&repo=MR.V-S_RENAMER-BOT&theme=dark)
 
 
 ### SAMPLE BOT (Renamer)
@@ -17,13 +17,13 @@
 
 ## Deploy To Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[DB_URL]&env[DB_NAME]=pyro-botz&env[FORCE_SUB]&env[START_PIC]&env[PORT]=8080&run_command=python%20bot.py&branch=main&name=pyro-rename) 
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/v15hnuf6n1x/MR.V-S_RENAMER-BOT&env[BOT_TOKEN]&env[API_ID]&env[API_HASH]&env[ADMIN]&env[DB_URL]&env[DB_NAME]=pyro-botz&env[FORCE_SUB]&env[START_PIC]&env[PORT]=8080&run_command=python%20bot.py&branch=main&name=pyro-rename) 
 
 ## Deploy To Render
 
 ◉ watch tutorial for render deploy <a href="https://youtu.be/i6OX3xzOCGY"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a>                     
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/v15hnuf6n1x/MR.V-S_RENAMER-BOT)
 
 ## Deploy To Railway
 
@@ -31,7 +31,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/heroku"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/v15hnuf6n1x/MR.V-S_RENAMER-BOT/blob/heroku"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 
 
@@ -67,6 +67,8 @@ broadcast - admin only
 
 ## ❣️Thanks to
 
+<a PYRO-RENAME-BOT 
+</>
 <a href="https://t.me/lntechnical">
    <p> lntechnical TG</p>
   </a>
