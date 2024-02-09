@@ -5,7 +5,7 @@
 <p align="center"> 🅡🅔🅟🅞 🅢🅣🅐🅣🅢 </p>
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=TEAM-PYRO-BOTZ&repo=PYRO-RENAME-BOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=v15hnuf6n1x&repo=mr_&theme=dark)
 
 
 ### SAMPLE BOT (Renamer)
